@@ -1,0 +1,184 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+		background-image: url('paris11.png');
+		background-size: cover;
+		background-repeat: no-repeat;
+		height: 100vh;
+		width: 100vw; 
+		position: relative;
+		font-family: cambria;
+	    font-size: 17px;
+	    background-attachment: fixed;
+   }
+div{
+    padding-left: 41%;
+}
+ 
+.proud-partner{
+	padding-top: 10%;
+    padding-left: 59%;
+    color: white;
+    font-size: 26px;
+}
+.meet-us{
+	text-align: center;
+    padding: 21% 0px 4px 35%;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.company{
+	padding-left: 59%;
+}
+.leader_summit{
+	text-align: center;
+    padding: 1% 0px 85px 35%;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+.date{
+	text-align: center;
+    padding: 1% 0px 4px 35%;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.address{
+	text-align: center;
+    padding: 1% 0px 4px 35%;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.city_name{text-align: center;
+    padding: 0% 0px 4px 35%;
+    font-size: 27px;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 479px)
+{
+body{
+		background-image: url('paris9.png');
+		background-size: cover;
+		background-repeat: no-repeat;
+		height: 100vh;
+		width: 100vw; 
+		position: relative;
+		font-family: roboto;
+	    font-size: 17px;
+   }
+div{
+    padding-left: 41%;
+}
+ 
+.proud-partner{
+	padding-top: 10%;
+    padding-left: 59%;
+    color: white;
+    font-size: 26px;
+}
+.meet-us{
+	text-align: center;
+    padding: 21% 0px 4px 36%;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.company{
+	padding-left: 59%;
+}
+.leader_summit{
+	text-align: center;
+    padding: 1% 0px 47px 36%;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.date{
+	text-align: center;
+    padding: 1% 0px 47px 36%;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.address{
+	text-align: center;
+    padding: 1% 0px 4px 36%;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.city_name{text-align: center;
+    padding: 0% 0px 4px 36%;
+    font-size: 27px;
+    color: white;
+    font-weight: bold;
+}
+
+}
+
+
+@media only screen and (max-width: 600px)
+{
+	div{
+    padding-left: 41%;
+}
+ 
+.proud-partner{
+	padding-top: 10%;
+    padding-left: 59%;
+    color: white;
+    font-size: 26px;
+}
+.meet-us{
+	text-align: center;
+    
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.company{
+	padding-left: 59%;
+}
+.leader_summit{
+	text-align: center;
+   
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.date{
+	text-align: center;
+   
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.address{
+	text-align: center;
+   
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.city_name{text-align: center;
+   
+    font-size: 27px;
+    color: white;
+    font-weight: bold;
+}
+
+}
